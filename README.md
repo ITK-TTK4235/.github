@@ -1,3 +1,1 @@
-# Welcome to Embedded Systems TTK4235
-
-- Something about this github....
+# GH org profile repo
