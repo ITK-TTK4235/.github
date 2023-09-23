@@ -9,4 +9,4 @@ I made this organization to make it easier to manage and develop the subject ass
 
 ## Workflow for Admins
 
-![workflow]()
+![workflow](https://github.com/ITK-TTK4235/.github/blob/main/admin_workflow_diagram.svg)
