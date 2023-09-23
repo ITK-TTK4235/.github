@@ -10,3 +10,17 @@ I made this organization to make it easier to manage and develop the subject ass
 ## Workflow for Admins
 
 ![workflow](https://github.com/ITK-TTK4235/.github/blob/main/admin_workflow_diagram.svg)
+
+
+## Troubleshooting for Admins
+
+- ***Help! The Github Action is failing!***
+***Possible Solutions***:
+
+- ***Help! I don't have access!***
+***Possible Solutions***:
+
+- ***Help! Overleaf won't syncronize!***
+***Possible Solutions***:
+
+If all else fails, contact Tord :)
