@@ -18,33 +18,4 @@ This github organization contains all the assignments and lab work for the cours
 
 In this course, you'll engage with various aspects of embedded systems, tackling both theoretical and practical challenges. The assignments are designed to enhance your understanding and provide hands-on experience.
 
-## Workflow for Admins
-
-![workflow](https://github.com/ITK-TTK4235/.github/blob/main/admin_workflow_diagram.svg)
-
-As an admin, you play a vital role in maintaining and updating the course materials. Our workflow ensures that any updates to the LaTeX source files are automatically compiled into PDFs and made available to students via GitHub releases.
-
-## Troubleshooting for Admins
-
-- ***Help! The GitHub Action is failing!***
-  ***Possible Solutions***:
-  - Check for syntax errors in the LaTeX files.
-  - Ensure that the GitHub Actions workflow file is correctly set up.
-  - Review the GitHub Actions logs for specific error messages.
-
-- ***Help! I don't have access!***
-  ***Possible Solutions***:
-  - Verify that you are a member of the GitHub organization with the necessary permissions.
-  - If you're new, request access from the repository admin.
-
-- ***Help! Overleaf won't synchronize!***
-  ***Possible Solutions***:
-  - Check your Overleaf account's GitHub integration settings.
-  - Ensure that the repository permissions are correctly configured.
-  - Try manually pushing from Overleaf to GitHub.
-
-If all else fails, contact Tord :)
-
----
-
 Remember, this organization is not just about managing course content but also about fostering a community of learning and collaboration. Feel free to reach out with suggestions or improvements!
