@@ -18,4 +18,12 @@ This github organization contains all the assignments and lab work for the cours
 
 In this course, you'll engage with various aspects of embedded systems, tackling both theoretical and practical challenges. The assignments are designed to enhance your understanding and provide hands-on experience.
 
+## How to download assignment or lab PDF
+
+### Step 1: Navigate to the task or lab you want to access and click on "Releases"
+<img src="https://github.com/ITK-TTK4235/.github/blob/main/step1.png" alt="Step 2" height="400">
+
+### Step 2: Click on "main.pdf" or download the newest release as a zip-file
+<img src="https://github.com/ITK-TTK4235/.github/blob/main/step2.png" alt="Step 2" height="400">
+
 Remember, this organization is not just about managing course content but also about fostering a community of learning and collaboration. Feel free to reach out with suggestions or improvements!
