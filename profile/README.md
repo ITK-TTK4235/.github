@@ -40,7 +40,6 @@ We encourage students to submit Github issues for issues, bugs and suggestions f
 - Be objective 🤓
 - Describe how to reproduce the error/bug 🐛
 
-
 --- 
 
 Remember, this organization is not just about managing course content but also about fostering a community of learning and collaboration. Feel free to reach out with suggestions or improvements!
