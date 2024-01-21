@@ -26,4 +26,21 @@ In this course, you'll engage with various aspects of embedded systems, tackling
 ### Step 2: Click on "main.pdf" or download the newest release as a zip-file
 <img src="https://github.com/ITK-TTK4235/.github/blob/main/step2.png" alt="Step 2" height="300" width=auto>
 
+
+## Github issues and suggestions
+
+We encourage students to submit Github issues for issues, bugs and suggestions for improvements (follow [this link](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart) for a quick guide on how to submit an issue to a Github repository). However, we expect the submitted issues to follow some simple guidelines:
+
+- Be nice ☺️
+- Avoid duplication
+- One issue per issue
+- Short and descriptive titles 🤏
+- Provide relevant screenshots, links and mentions
+- Describe why it needs to be solved 
+- Be objective 🤓
+- Describe how to reproduce the error/bug 🐛
+
+
+--- 
+
 Remember, this organization is not just about managing course content but also about fostering a community of learning and collaboration. Feel free to reach out with suggestions or improvements!
