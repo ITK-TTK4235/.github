@@ -10,7 +10,7 @@ This github organization contains all the assignments and lab work for the cours
  - [Assignment 1 - Linux](https://github.com/ITK-TTK4235/assignment_1/releases/latest)
  - [Assignment 2 - Git](https://github.com/ITK-TTK4235/assignment_2/releases/latest)
  - [Assignment 3 - Make](https://github.com/ITK-TTK4235/assignment_3/releases/latest)
- - [Assignment 4 - GDB](https://github.com/ITK-TTK4235/assignment_4/releases/latest)
+ - [Assignment 4 - Moderne Utviklingsmiljø i C](https://github.com/ITK-TTK4235/assignment_4/releases/latest)
  - [Assignment 5 - Doxygen](https://github.com/ITK-TTK4235/assignment_5/releases/latest)
  - [Lab 1 - PLS](https://github.com/ITK-TTK4235/lab_1/releases/latest)
  - [Lab 2 - Heis](https://github.com/ITK-TTK4235/lab_2/releases/latest)
