@@ -23,7 +23,7 @@ In this course, you'll engage with various aspects of embedded systems, tackling
 ### Step 1: Navigate to the task or lab you want to access and click on "Releases"
 <img src="https://github.com/ITK-TTK4235/.github/blob/main/step1.png" alt="Step 2" height="400" width=auto>
 
-### Step 2: Click on "main.pdf" or download the newest release as a zip-file
+### Step 2: Click on "main.pdf" to get the assignment description, or on "Source code" to download the newest release as a zip-file. Some assignments require additional source files in addition to the assignment description, in which case the zip-file is needed.
 <img src="https://github.com/ITK-TTK4235/.github/blob/main/step2.png" alt="Step 2" height="300" width=auto>
 
 
