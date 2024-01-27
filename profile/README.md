@@ -10,7 +10,7 @@ This github organization contains all the assignments and lab work for the cours
  - [Assignment 1 - Linux](https://github.com/ITK-TTK4235/assignment_1/)
  - [Assignment 2 - Git](https://github.com/ITK-TTK4235/assignment_2/)
  - [Assignment 3 - Make](https://github.com/ITK-TTK4235/assignment_3/)
- - [Assignment 4 - Debugging med GDB](https://github.com/ITK-TTK4235/assignment_4/)
+ - [Assignment 4 - GDB](https://github.com/ITK-TTK4235/assignment_4/)
  - [Assignment 5 - Doxygen](https://github.com/ITK-TTK4235/assignment_5/)
  - [Lab 1 - PLS](https://github.com/ITK-TTK4235/lab_1/)
  - [Lab 2 - Heis](https://github.com/ITK-TTK4235/lab_2/)
