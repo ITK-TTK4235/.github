@@ -15,6 +15,7 @@ This github organization contains all the assignments and lab work for the cours
  - [Lab 1 - PLS](https://github.com/ITK-TTK4235/lab_1/) (this assignment will be dropped V2024)
  - [Lab 2 - Heis](https://github.com/ITK-TTK4235/lab_2/)
  - [Lab 3 - Microcontroller](https://github.com/ITK-TTK4235/lab_3/)
+ - [Lab 3 - Development environment for nRF52 DK](https://github.com/ITK-TTK4235/nrf52dk-environment)
 
 In this course, you'll engage with various aspects of embedded systems, tackling both theoretical and practical challenges. The assignments are designed to enhance your understanding and provide hands-on experience.
 
